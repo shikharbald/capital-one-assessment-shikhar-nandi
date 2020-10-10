@@ -32,7 +32,8 @@ To run either simply follow the instructions below.
 
 1) Open your command line
 2) cd into the assignment folder
-3) type: python main.py [path-to-file-that-you-want-to-parse] (if this doesn't work try python3 main.py [path-to-file-that-you-want-to-parse]), as your laptop may configure python 3.7 to that command.
-5) Output will be displayed on the command line
+3) type: python main.py [path-to-file-that-you-want-to-parse] 
+(if this doesn't work try python3 main.py [path-to-file-that-you-want-to-parse]), as your laptop may configure python 3.7 to that command.
+4) Output will be displayed on the command line
 
 Some tests are provided in the tests folder.
