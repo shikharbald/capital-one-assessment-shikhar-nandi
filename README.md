@@ -3,7 +3,7 @@ README FILE
 by: Shikhar Nandi
 email: shikharndaa@gmail.com
 
-REQUIRES Python 3.5 or later to run. 
+REQUIRES Python 3.7 or later to run. 
 
 This is my solution to the Capital One Assessment 2021 New graduate Software Engineer
 
