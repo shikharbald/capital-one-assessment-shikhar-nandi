@@ -1,6 +1,7 @@
 README FILE 
 
 by: Shikhar Nandi
+
 email: shikharndaa@gmail.com
 
 REQUIRES Python 3.7 or later to run. 
