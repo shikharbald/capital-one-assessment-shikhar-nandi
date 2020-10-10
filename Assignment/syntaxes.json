@@ -1,0 +1,18 @@
+{
+    ".java": {
+        "firstComment":"//",
+        "blockComment":["/*","*/"],
+        "todo":"//TODO:"
+        
+    },
+    ".js": {
+        "firstComment":"//",
+        "blockComment":["/*","*/"],
+        "todo":"//TODO:"
+    },
+    ".py": {
+        "firstComment":"#",
+        "blockComment":["'''","'''"],
+        "todo":"#TODO:"
+    }
+}
