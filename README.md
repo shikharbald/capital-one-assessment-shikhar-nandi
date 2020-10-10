@@ -24,7 +24,7 @@ BRIEF SUMMARY:
 
 Two solutions were made for this assignment. The extractinfo.py is the main solution, 
 for extraction whereas the extractinfo_2.py  is an approach using a different technique. 
-To try the other approach in the main.py simply change from modules.extractinfo import ExtractInfo
+To try the other approach, in the main.py simply change from modules.extractinfo import ExtractInfo
 to from modules.extractinfo_2 import ExtractInfo in line 9.
 
 To run either simply follow the instructions below.
